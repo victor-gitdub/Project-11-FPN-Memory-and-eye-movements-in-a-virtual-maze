@@ -1,0 +1,21 @@
+Participant_ID,Session_Used,Pct_Improvement,Learner_Group
+PID18,1,74.52,Good Learner
+PID14,1,67.83,Good Learner
+PID15,1,67.56,Good Learner
+PID28,1,56.49,Good Learner
+PID26,1,53.02,Good Learner
+PID29,1,48.33,Good Learner
+PID11,1,48.08,Good Learner
+PID22,1,47.85,Good Learner
+PID17,1,46.69,Good Learner
+PID16,1,43.84,Good Learner
+PID27,1,42.89,Good Learner
+PID25,1,41.91,Good Learner
+PID19,1,28.53,Good Learner
+PID20,1,26.61,Good Learner
+PID23,1,25.45,Good Learner
+PID10,1,23.5,Bad Learner
+PID12,1,3.48,Bad Learner
+PID24,1,-3.48,Bad Learner
+PID21,1,-35.05,Bad Learner
+PID13,1,-151.42,Bad Learner
